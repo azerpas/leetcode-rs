@@ -1,1 +1,1 @@
-- [9. Palindrome Number](./palindrome_number/) - [*Leetcode*](https://leetcode.com/problems/palindrome-number/description/)
+- [9. Palindrome Number](./palindrome_number/src/main.rs) - [*Leetcode*](https://leetcode.com/problems/palindrome-number/description/)
