@@ -1,1 +1,2 @@
 - [2. Add Two Numbers](./add_two_numbers/src/main.rs) - [*Leetcode*](https://leetcode.com/problems/add-two-numbers/description/)
+- [12. Integer to Roman](./integer_to_roman/src/main.rs) - [*Leetcode*](https://leetcode.com/problems/integer-to-roman/description/)
