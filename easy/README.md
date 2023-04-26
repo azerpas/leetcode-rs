@@ -1,3 +1,4 @@
 - [9. Palindrome Number](./palindrome_number/src/main.rs) - [*Leetcode*](https://leetcode.com/problems/palindrome-number/description/)
 - [13. Roman to Integer](./roman_to_integer/src/main.rs) - [*Leetcode*](https://leetcode.com/problems/roman-to-integer/description/)
 - [14. Longest Common Prefix](./longest_common_prefix/src/main.rs) - [*Leetcode*](https://leetcode.com/problems/longest-common-prefix/description/)
+- [258. Add Digits](./add_digits/src/main.rs) - [*Leetcode*](https://leetcode.com/problems/add-digits/description/)
