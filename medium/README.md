@@ -1,3 +1,4 @@
 - [2. Add Two Numbers](./add_two_numbers/src/main.rs) - [*Leetcode*](https://leetcode.com/problems/add-two-numbers/description/)
 - [12. Integer to Roman](./integer_to_roman/src/main.rs) - [*Leetcode*](https://leetcode.com/problems/integer-to-roman/description/)
 - [17. Letter Combinations of a Phone Number](./letter_combinations_of_a_phone_number/src/main.rs) - [*Leetcode*](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+- [319. Bulb Switcher](./bulb_switcher/src/main.rs) - [*Leetcode*](https://leetcode.com/problems/bulb-switcher/description/)
