@@ -3,3 +3,4 @@
 - [14. Longest Common Prefix](./longest_common_prefix/src/main.rs) - [*Leetcode*](https://leetcode.com/problems/longest-common-prefix/description/)
 - [258. Add Digits](./add_digits/src/main.rs) - [*Leetcode*](https://leetcode.com/problems/add-digits/description/)
 - [1550. Three Consecutive Odds](./three_consecutive_odds/src/main.rs) - [*Leetcode*](https://leetcode.com/problems/three-consecutive-odds/description/)
+- [1822. Sign of the Product of an Array](./sign_of_the_product_of_an_array/src/main.rs) - [*Leetcode*](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)
